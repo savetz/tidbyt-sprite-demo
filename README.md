@@ -6,4 +6,4 @@ Code to create and move a pixel-based sprite on a [Tidbyt](https://tidbyt.com/) 
 2. Run `pixlet serve sprite.star`
 3. Go to [http://localhost:8080](http://localhost:8080)
 
-![Preview](screenshot1.png)
+![Preview](spritedemo.gif)
