@@ -6,8 +6,8 @@ Code to create and move pixel-based sprites on a [Tidbyt](https://tidbyt.com/) d
 2. Run `pixlet serve sprite.star`
 3. Go to [http://localhost:8080](http://localhost:8080)
 
-###Sprite Demo
+### Sprite Demo
 ![Preview](spritedemo.gif)
 
-###3-Frame Animation with Parallax Scrolling Demo
+### 3-Frame Animation with Parallax Scrolling Demo
 ![Preview](parallaxdemo.gif)
