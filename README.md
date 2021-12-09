@@ -11,3 +11,6 @@ Code to create and move pixel-based sprites on a [Tidbyt](https://tidbyt.com/) d
 
 ### 3-Frame Animation with Parallax Scrolling Demo
 ![Preview](parallaxdemo.gif)
+
+### Pac Man Clock
+![Preview](pacmandemo.gif)
